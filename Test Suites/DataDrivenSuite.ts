@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataDrivenSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>e122640a-0973-4425-951c-886a25fc3e12</testSuiteGuid>
+   <testCaseLink>
+      <guid>f4408cfe-b4e1-4764-84b8-dc421bcd3b07</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/DataDriven/DataDrivenVariable</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d9bcc1ab-62dd-4591-b50d-64a2102de661</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e25b7c3b-f416-40ec-8134-881222f6b448</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a8e750b0-951e-40a3-b2b5-653a4d1bf4e3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDriven/DataDrivenExcel</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b8042d59-a66a-4e92-b806-a3fe70f29373</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ea1c39e0-ae8a-4db5-b3e2-11f686dd79b5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDriven/DataDrivenInternal</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>95cdfbe3-74bd-4882-ac5c-488df5ea6877</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

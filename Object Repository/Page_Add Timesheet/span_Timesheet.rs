@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Timesheet</name>
+   <tag></tag>
+   <elementGuidId>e8578c79-3c87-43c7-a3c2-0241ff58f19b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-menu-submenu-title > span.ant-menu-title-content > div.ant-pro-base-menu-item-title.css-3w3zlw > span.ant-pro-base-menu-item-text.css-3w3zlw.ant-pro-base-menu-item-text-has-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/section/aside/div/div/ul/li[2]/div/span/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e70f2980-92df-44d1-9651-616c3d2a019a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-pro-base-menu-item-text css-3w3zlw ant-pro-base-menu-item-text-has-icon</value>
+      <webElementGuid>b5c097e1-d45d-491a-8e93-be98e44e0527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Timesheet</value>
+      <webElementGuid>95c96ad8-048c-40b0-a7df-f444c6008904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-pro css-3w3zlw&quot;]/div[@class=&quot;css-3w3zlw ant-design-pro ant-pro-layout screen-xl ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider css-e8tju&quot;]/aside[@class=&quot;ant-layout-sider ant-layout-sider-light ant-pro-sider css-3w3zlw ant-pro-sider-fixed ant-pro-sider-layout-mix ant-pro-sider-light ant-pro-sider-mix css-3w3zlw&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/div[1]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-inline ant-menu-light ant-pro-sider-menu css-3w3zlw css-3w3zlw ant-pro-base-menu css-lbb0kg&quot;]/li[@class=&quot;ant-menu-submenu ant-menu-submenu-inline ant-pro-base-menu-submenu ant-pro-base-menu-submenu-has-icon ant-menu-submenu-open ant-menu-submenu-active&quot;]/div[@class=&quot;ant-menu-submenu-title&quot;]/span[@class=&quot;ant-menu-title-content&quot;]/div[@class=&quot;ant-pro-base-menu-item-title css-3w3zlw&quot;]/span[@class=&quot;ant-pro-base-menu-item-text css-3w3zlw ant-pro-base-menu-item-text-has-icon&quot;]</value>
+      <webElementGuid>309e2dbc-f3eb-4bbb-ab5c-ec7e923754ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/aside/div/div/ul/li[2]/div/span/div/span[2]</value>
+      <webElementGuid>2fabf9d0-cd4e-445c-9d6f-fd81a7898aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[4]</value>
+      <webElementGuid>e7339039-6dba-4fbc-98ec-aab9fed5d0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Timesheets'])[1]/preceding::span[1]</value>
+      <webElementGuid>3c54bc7b-4673-4f76-ba6b-9b58b35deb0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timesheet Approval'])[1]/preceding::span[3]</value>
+      <webElementGuid>46639cda-4fec-4373-9cd0-d2f3b3c01984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Timesheet']/parent::*</value>
+      <webElementGuid>141f7025-0119-4f10-b01e-c2995111328f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/div/span[2]</value>
+      <webElementGuid>9c2e130a-ce08-41ad-9465-1d0ec93ee534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Timesheet' or . = 'Timesheet')]</value>
+      <webElementGuid>2bbdb567-63db-4807-929f-770a2b0a7e34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

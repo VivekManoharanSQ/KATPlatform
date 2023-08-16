@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Asset</name>
+   <tag></tag>
+   <elementGuidId>23a060a9-1d82-40a0-9560-60ef4a0a2240</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Asset' or . = 'Asset')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-submenu.ant-menu-submenu-inline.ant-pro-base-menu-submenu.ant-pro-base-menu-submenu-has-icon.ant-menu-submenu-active > div.ant-menu-submenu-title > span.ant-menu-title-content > div.ant-pro-base-menu-item-title.css-oxypi3 > span.ant-pro-base-menu-item-text.css-oxypi3.ant-pro-base-menu-item-text-has-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>84af6335-d55f-4e15-a1e7-833333acbeaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-pro-base-menu-item-text css-oxypi3 ant-pro-base-menu-item-text-has-icon</value>
+      <webElementGuid>582150e6-8dcd-46c5-b171-17eefef36576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asset</value>
+      <webElementGuid>0121353f-6f23-4d9f-8a92-113432ee13e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-pro css-oxypi3&quot;]/div[@class=&quot;css-oxypi3 ant-design-pro ant-pro-layout screen-xl ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider css-e8tju&quot;]/aside[@class=&quot;ant-layout-sider ant-layout-sider-light ant-pro-sider css-oxypi3 ant-pro-sider-fixed ant-pro-sider-layout-mix ant-pro-sider-light ant-pro-sider-mix css-oxypi3&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/div[1]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-inline ant-menu-light ant-pro-sider-menu css-oxypi3 css-oxypi3 ant-pro-base-menu css-lbb0kg&quot;]/li[@class=&quot;ant-menu-submenu ant-menu-submenu-inline ant-pro-base-menu-submenu ant-pro-base-menu-submenu-has-icon ant-menu-submenu-active&quot;]/div[@class=&quot;ant-menu-submenu-title&quot;]/span[@class=&quot;ant-menu-title-content&quot;]/div[@class=&quot;ant-pro-base-menu-item-title css-oxypi3&quot;]/span[@class=&quot;ant-pro-base-menu-item-text css-oxypi3 ant-pro-base-menu-item-text-has-icon&quot;]</value>
+      <webElementGuid>4a314cb8-7dc7-4713-8cb6-2d3410ebf696</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/aside/div/div/ul/li[4]/div/span/div/span[2]</value>
+      <webElementGuid>fd7f0f3f-c433-4f6f-bae5-3117ce0e2ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Order'])[1]/following::span[4]</value>
+      <webElementGuid>83495f1f-bb62-4887-96c4-1ccd5dee2e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timesheet'])[1]/following::span[8]</value>
+      <webElementGuid>cafc9fe5-b295-4b89-b682-f757f85eac25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee'])[1]/preceding::span[3]</value>
+      <webElementGuid>794da088-3f76-4d2a-871a-500b35ea35cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/preceding::span[7]</value>
+      <webElementGuid>f24efd1d-aec8-4f74-a5a4-913c85585670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Asset']/parent::*</value>
+      <webElementGuid>10d0d8bb-763b-4936-8cff-c76f28a43fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/span/div/span[2]</value>
+      <webElementGuid>ee3a4ea1-a7c7-4c8a-9bc1-c1ba213cad23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Asset' or . = 'Asset')]</value>
+      <webElementGuid>d83d33cb-26f9-4f7d-91de-e881ef17e496</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

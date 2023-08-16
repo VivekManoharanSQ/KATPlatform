@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Logout</name>
+   <tag></tag>
+   <elementGuidId>cea35b0b-3cb7-475e-b3ca-5eaf07b5248e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Logout' or . = 'Logout')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-dropdown-menu-item.ant-dropdown-menu-item-active > span.ant-dropdown-menu-title-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>67006d53-7698-4b54-90e4-ae24dea01bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-dropdown-menu-title-content</value>
+      <webElementGuid>8abbb6fe-8698-4391-b4d1-6bfb87e14c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>50883660-c64a-4a60-a4fa-d2f26e91a9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-pro css-oxypi3&quot;]/div[@class=&quot;css-oxypi3 ant-design-pro ant-pro-layout screen-xl ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider css-e8tju&quot;]/div[@class=&quot;ant-pro-layout-container css-oxypi3&quot;]/header[@class=&quot;ant-layout-header css-oxypi3 ant-pro-layout-header ant-pro-layout-header-fixed-header ant-pro-layout-header-mix ant-pro-layout-header-fixed-header-action ant-pro-layout-header-header&quot;]/div[@class=&quot;ant-pro-global-header css-oxypi3&quot;]/div[@class=&quot;ant-pro-global-header-right-content css-oxypi3&quot;]/div[1]/div[1]/div[@class=&quot;css-1doylhz&quot;]/div[1]/div[1]/div[@class=&quot;ant-dropdown css-p9225j css-18syf7z ant-dropdown-placement-bottomLeft&quot;]/ul[@class=&quot;ant-dropdown-menu ant-dropdown-menu-root ant-dropdown-menu-vertical ant-dropdown-menu-light css-18syf7z&quot;]/li[@class=&quot;ant-dropdown-menu-item ant-dropdown-menu-item-active&quot;]/span[@class=&quot;ant-dropdown-menu-title-content&quot;]</value>
+      <webElementGuid>d713aae0-ec83-4f65-b650-02d1f0bd10b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/div[2]/header[2]/div/div[3]/div/div/div/div/div/div/ul/li[2]/span[2]</value>
+      <webElementGuid>f3b78efc-ad22-4a36-b96b-2301a4b11cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My profile'])[1]/following::span[2]</value>
+      <webElementGuid>0d739d4b-7f5d-412a-b972-36ce1ba2e3ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skill quotient'])[1]/following::span[4]</value>
+      <webElementGuid>6cdd3153-d542-4f88-9041-50a30d8f7459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[1]</value>
+      <webElementGuid>b723702b-a564-4301-902c-714ea088c81e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Generated On : Thu, 10-08-2023 12:35:43'])[1]/preceding::span[2]</value>
+      <webElementGuid>ce79183e-5db8-4a68-a7aa-1bea2708a15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
+      <webElementGuid>9212b788-7199-4385-a899-7e22c60be180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span[2]</value>
+      <webElementGuid>2662e0c0-176b-4a86-9716-b98c9468447e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>e6b62689-3d86-4890-8a3d-afb45d54bc2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

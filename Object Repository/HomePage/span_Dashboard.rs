@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>c2ad398f-136f-4430-b703-165f163fb473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-pro-base-menu-item-text.css-oxypi3.ant-pro-base-menu-item-text-has-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a3be59a4-3278-49a4-afa1-403737d861e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-pro-base-menu-item-text css-oxypi3 ant-pro-base-menu-item-text-has-icon</value>
+      <webElementGuid>33de3513-8278-4198-bcf4-f2c9edb412a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>7cd3d929-fbda-4fc2-ab2b-b7ed614ca7c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-pro css-oxypi3&quot;]/div[@class=&quot;css-oxypi3 ant-design-pro ant-pro-layout screen-xl ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider css-e8tju&quot;]/aside[@class=&quot;ant-layout-sider ant-layout-sider-light ant-pro-sider css-oxypi3 ant-pro-sider-fixed ant-pro-sider-layout-mix ant-pro-sider-light ant-pro-sider-mix css-oxypi3&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/div[1]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-inline ant-menu-light ant-pro-sider-menu css-oxypi3 css-oxypi3 ant-pro-base-menu css-lbb0kg&quot;]/li[@class=&quot;ant-menu-item ant-menu-item-active ant-menu-item-only-child ant-pro-base-menu-menu-item&quot;]/span[@class=&quot;ant-menu-title-content&quot;]/div[@class=&quot;ant-pro-base-menu-item-title css-oxypi3&quot;]/span[@class=&quot;ant-pro-base-menu-item-text css-oxypi3 ant-pro-base-menu-item-text-has-icon&quot;]</value>
+      <webElementGuid>117445b1-8b8c-4970-8cd8-3af7c9a20261</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/aside/div/div/ul/li/span/div/span[2]</value>
+      <webElementGuid>8a101f48-1260-4df8-9af5-ba8d2f71a69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timesheet'])[1]/preceding::span[3]</value>
+      <webElementGuid>d5254e4c-c9d0-4475-a7e5-e6dd18d20be5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Order'])[1]/preceding::span[7]</value>
+      <webElementGuid>0c8ba8d0-f1ad-4bc4-a1b7-dc1899854b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>03917817-f7a5-4ca4-8bfd-f163e65a6d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>ae82ab29-a7bb-4341-bb69-c8fc5b6a9a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>0fb9c086-d02e-47e8-8eea-78a5554a0fa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

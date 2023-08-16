@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Work Hours</name>
+   <tag></tag>
+   <elementGuidId>9a53077c-9b52-420d-94a5-915d581987f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@title = 'Work Hours' and (text() = 'Work Hours' or . = 'Work Hours')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ad78c7fa-8e38-4681-9fab-7967deb164fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>basic_workedHours</value>
+      <webElementGuid>4a1408e4-bf84-451b-9b1a-1d287b4122a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-form-item-required</value>
+      <webElementGuid>3f7a8723-846f-4274-818a-bf7254f38460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Work Hours</value>
+      <webElementGuid>9f59f4fd-5f7d-4970-98a8-acf3306bf4dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Work Hours</value>
+      <webElementGuid>978389f6-5b4c-4d3e-858b-62e61ba598fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic&quot;)/div[@class=&quot;ant-col css-e8tju&quot;]/div[@class=&quot;ant-row css-e8tju&quot;]/div[@class=&quot;ant-col ant-col-sm-24 ant-col-md-12 ant-col-lg-12 css-e8tju&quot;]/div[@class=&quot;ant-form-item css-e8tju&quot;]/div[@class=&quot;ant-row ant-form-item-row css-e8tju&quot;]/div[@class=&quot;ant-col ant-form-item-label css-e8tju&quot;]/label[@class=&quot;ant-form-item-required&quot;]</value>
+      <webElementGuid>81cb84c2-76e7-4edf-a360-519a45de9e75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basic']/div[2]/div[3]/div/div/div/div/label</value>
+      <webElementGuid>8a9db852-ebb9-44f0-9299-271548a9c8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Month'])[1]/following::label[1]</value>
+      <webElementGuid>9acb472f-d05a-4975-b746-9891cd388cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cycle'])[1]/following::label[1]</value>
+      <webElementGuid>b54b03ee-143d-4c52-b85a-662701b5879b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Work Hours'])[1]/preceding::label[1]</value>
+      <webElementGuid>d2d7a996-623b-4400-a909-fc5668d257b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annual Leave Hours'])[1]/preceding::label[2]</value>
+      <webElementGuid>0e313167-376a-4c66-a518-b9e9a181b6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Work Hours']/parent::*</value>
+      <webElementGuid>c6ced6b3-88f8-46d1-8319-936e0d73c752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/label</value>
+      <webElementGuid>469ca8ee-aa80-41d1-821e-d46b274f541a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = 'Work Hours' and (text() = 'Work Hours' or . = 'Work Hours')]</value>
+      <webElementGuid>380c18c8-46db-4fff-ae38-83de78ff481e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

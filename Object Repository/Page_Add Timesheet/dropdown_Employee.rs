@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_Employee</name>
+   <tag></tag>
+   <elementGuidId>f15d7234-90e8-4b0b-a331-685dec4acfdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='basic_employee']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-select-selection-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a799bb84-9375-4661-b287-ae969a9e0522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>511d5578-104a-4ade-8356-c9f4d8d59810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>SQR2023073100 - praveen ram</value>
+      <webElementGuid>70fb53cd-5bc6-4e5b-b2e2-96d3426d70bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SQR2023073100 - praveen ram</value>
+      <webElementGuid>48b92dc0-58e9-4f30-8d96-4a952cd6ac12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic&quot;)/div[@class=&quot;ant-row css-e8tju&quot;]/div[@class=&quot;ant-col ant-col-sm-8 ant-col-md-8 ant-col-lg-8 css-e8tju&quot;]/div[@class=&quot;ant-form-item css-e8tju ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row css-e8tju&quot;]/div[@class=&quot;ant-col ant-form-item-control css-e8tju&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item ant-select-status-success ant-pro-filed-search-select css-e8tju ant-select-focused ant-select-single ant-select-allow-clear ant-select-show-arrow ant-select-open ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>d9aa432d-d135-4e46-ad09-39422dcf53df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basic']/div/div/div/div/div[2]/div/div/div/div/span[2]</value>
+      <webElementGuid>f995622c-1da5-4e23-9222-7ee82d30fbe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee'])[2]/following::span[2]</value>
+      <webElementGuid>cd156a4b-2359-41d5-ac8f-e136e7fff59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Timesheet'])[3]/following::span[2]</value>
+      <webElementGuid>b5b92edf-aba6-4a0c-87da-1f781b3440e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work order'])[1]/preceding::span[5]</value>
+      <webElementGuid>fae5847d-2c8c-46da-87ff-5bff817ec62a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please choose work order'])[1]/preceding::span[6]</value>
+      <webElementGuid>20ff4360-5bae-4dfa-baea-87776a4f6ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SQR2023073100 - praveen ram']/parent::*</value>
+      <webElementGuid>a5a9bd4c-15ce-499a-addd-9bc0fe4bf816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/span[2]</value>
+      <webElementGuid>8119abfb-aa98-437a-bef6-8301fb8fe107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'SQR2023073100 - praveen ram' and (text() = 'SQR2023073100 - praveen ram' or . = 'SQR2023073100 - praveen ram')]</value>
+      <webElementGuid>1cacd835-ea4c-49cd-8f9a-c60c125dd3ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

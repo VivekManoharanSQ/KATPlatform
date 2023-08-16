@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenInternal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa270e2e-1ea9-4f46-ba6d-44cdb1f2b5be</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>9ebd51c3-c267-43a2-8087-05c4fcbcb34b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/InternalData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>9ebd51c3-c267-43a2-8087-05c4fcbcb34b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserName</value>
+      <variableId>95cdfbe3-74bd-4882-ac5c-488df5ea6877</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95cdfbe3-74bd-4882-ac5c-488df5ea6877</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+</TestCaseEntity>

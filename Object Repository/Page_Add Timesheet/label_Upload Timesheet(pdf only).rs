@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Upload Timesheet(pdf only)</name>
+   <tag></tag>
+   <elementGuidId>cdc05667-9674-4695-9f48-0adb4a9844e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#basic > div.ant-col.css-e8tju > div.ant-form-item.css-e8tju > div.ant-row.ant-form-item-row.css-e8tju > div.ant-col.ant-form-item-label.css-e8tju > label.ant-form-item-required</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='basic']/div[2]/div[6]/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>fcd8fb49-c7d2-4d19-ac41-7adde59bf25d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>basic_timesheet_file</value>
+      <webElementGuid>33c36e7a-3321-43ba-b7bb-4039e27e8c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-form-item-required</value>
+      <webElementGuid>0bfc2eba-6f6a-4e3a-8026-303b7b15d424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Upload Timesheet(pdf only)</value>
+      <webElementGuid>fc8b5042-1800-4dcd-b5bb-fa9005b5b3d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Timesheet(pdf only)</value>
+      <webElementGuid>7f98d4c5-97fd-4e5e-bdb3-19b4c0617b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic&quot;)/div[@class=&quot;ant-col css-e8tju&quot;]/div[@class=&quot;ant-form-item css-e8tju&quot;]/div[@class=&quot;ant-row ant-form-item-row css-e8tju&quot;]/div[@class=&quot;ant-col ant-form-item-label css-e8tju&quot;]/label[@class=&quot;ant-form-item-required&quot;]</value>
+      <webElementGuid>4e32d465-c83a-45a2-bb48-51bd09ad1200</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='basic']/div[2]/div[6]/div/div/label</value>
+      <webElementGuid>2f864254-04b2-417a-bd4f-c16904f60033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paternal Leave Hours'])[1]/following::label[1]</value>
+      <webElementGuid>232da557-f289-469c-9b1f-1917bafd8661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maternal/Paternal Leave Hours'])[1]/following::label[2]</value>
+      <webElementGuid>8237a2de-7e32-4458-ac3e-30aa761314bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to attach'])[1]/preceding::label[1]</value>
+      <webElementGuid>7e143b1c-bfb8-441e-b070-fd2cfe237cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::label[1]</value>
+      <webElementGuid>54baf924-dcf6-4b04-a13e-6656d75eae2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload Timesheet(pdf only)']/parent::*</value>
+      <webElementGuid>690d8172-a1a7-4141-82c5-8e8246667a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/label</value>
+      <webElementGuid>984c9ea8-247c-4aae-9bfe-5050c824fbc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@title = 'Upload Timesheet(pdf only)' and (text() = 'Upload Timesheet(pdf only)' or . = 'Upload Timesheet(pdf only)')]</value>
+      <webElementGuid>3a9557f7-985a-4471-86b4-2f437eee75d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

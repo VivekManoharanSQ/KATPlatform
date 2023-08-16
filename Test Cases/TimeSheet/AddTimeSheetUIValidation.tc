@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the ui elements in the Add timesheet page</description>
+   <name>AddTimeSheetUIValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c384dc76-9fa3-43e4-8f62-b754b8f80367</testCaseGuid>
+</TestCaseEntity>
