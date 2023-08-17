@@ -16,24 +16,33 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
       <testCaseId>Test Cases/DataDriven/DataDrivenVariable</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4f95fe73-1250-4168-9c4c-f544de5315e6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/InternalData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>4f95fe73-1250-4168-9c4c-f544de5315e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserName</value>
          <variableId>d9bcc1ab-62dd-4591-b50d-64a2102de661</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>4f95fe73-1250-4168-9c4c-f544de5315e6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
          <variableId>e25b7c3b-f416-40ec-8134-881222f6b448</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>a8e750b0-951e-40a3-b2b5-653a4d1bf4e3</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/DataDriven/DataDrivenExcel</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -46,7 +55,7 @@
    <testCaseLink>
       <guid>ea1c39e0-ae8a-4db5-b3e2-11f686dd79b5</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/DataDriven/DataDrivenInternal</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
@@ -55,5 +64,12 @@
          <value></value>
          <variableId>95cdfbe3-74bd-4882-ac5c-488df5ea6877</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2269f5bf-6c85-48bb-9c05-4f6babbe1896</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDriven/ProfileDrivenTest</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
