@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>TestDataCheckpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/InternalData</source-url>
+   </source-info>
+   <taken-date>2023-08-17T16:18:37.218</taken-date>
+   <column-names>
+      <column-name>UserName</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "internaluser123",
+      "checked": false
+    },
+    {
+      "value": "InternalPass1234",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

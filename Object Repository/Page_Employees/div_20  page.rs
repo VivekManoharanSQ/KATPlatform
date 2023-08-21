@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_20  page</name>
+   <tag></tag>
+   <elementGuidId>1a7e6a6b-a1c5-4f5e-a97b-7a2804fdbe37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '20 / page' or . = '20 / page')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc_select_8_list_1']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#rc_select_8_list_1 > div.ant-select-item-option-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>63d25ea2-147b-401d-a28f-b5dab7435e6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>6f54667d-9548-4289-9a7d-df5a06c097eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>20 / page</value>
+      <webElementGuid>a59d7d54-5c66-4eca-9573-ad97e612bcb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc_select_8_list_1&quot;)/div[@class=&quot;ant-select-item-option-content&quot;]</value>
+      <webElementGuid>b88694ae-a072-4b08-a431-e27fe4547b41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc_select_8_list_1']/div</value>
+      <webElementGuid>26e7592f-cae0-4196-80f6-61e24ea3464b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•••'])[1]/following::div[14]</value>
+      <webElementGuid>d59ff688-8f9e-4b50-b4bb-e735aa90c333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='showing 1-10 of 3117 total items'])[1]/following::div[15]</value>
+      <webElementGuid>5144884e-fdad-45db-9b5b-f5cf546fab31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='20 / page']/parent::*</value>
+      <webElementGuid>e27db789-d1b2-4688-8bd5-d2cf21050214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/div/div[2]/div/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>ef3cee9d-8eae-43ad-bc05-a1b190692290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '20 / page' or . = '20 / page')]</value>
+      <webElementGuid>8f41f1f9-b8c8-418f-a261-0b04fe0f9516</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

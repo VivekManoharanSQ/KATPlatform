@@ -17,13 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://sqms.skill-quotient.com/')
-
-WebUI.setText(findTestObject('Page_Login-/input_Account Login_emailOrPhone'), UserName, FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.setEncryptedText(findTestObject('Page_Login-/input_Account Login_password'), 'iFGeFYmXIrUhQZHvW7P22w==', FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Page_Login-/button_Login'))
-
-WebUI.closeBrowser()
+WS.sendRequest(findTestObject(null))
 

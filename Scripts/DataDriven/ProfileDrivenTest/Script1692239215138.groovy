@@ -19,9 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.URL)
 
+println (System.currentTimeMillis().toString()+"Epoch Time")
+
+WebUI.verifyEqual(2, 1, FailureHandling.STOP_ON_FAILURE)
+
 WebUI.setText(findTestObject('Page_Login-/input_Account Login_emailOrPhone'), GlobalVariable.USERNAME)
 
-WebUI.setEncryptedText(findTestObject('Page_Login-/input_Account Login_password'), GlobalVariable.PASSWORD)
+WebUI.setEncryptedText(findTestObject('Page_Login-/input_Account Login_password'), GlobalVariable.PASSWORD, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_Login-/button_Login'))
 

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_refresh</name>
+   <tag></tag>
+   <elementGuidId>c53a2ccf-8845-4519-8933-d286197ef24e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.anticon.anticon-reload.ant-tooltip-open > svg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Export as Excel'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c6c81c06-d21c-4b39-aeac-4bd5dd1672c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>64cf1a9c-2eab-4292-bb35-c189239bb9c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>982773de-6a36-4d37-ac14-d1e1911c4a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>reload</value>
+      <webElementGuid>41ff7055-1e1d-4a35-a76b-0e712d0853b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>c4f185f4-b1f1-46e5-ac7e-04946774e017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>4d35abf2-5dd7-47ef-afbe-de8fb8e18402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>0e6332ea-bab7-46f9-bdcf-6b3f10d34836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1751e5bc-c120-4c77-b7b8-94acfdd741a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-pro css-oxypi3&quot;]/div[@class=&quot;css-oxypi3 ant-design-pro ant-pro-layout screen-xl ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider css-e8tju&quot;]/div[@class=&quot;ant-pro-layout-container css-oxypi3&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-oxypi3 ant-pro-layout-has-header ant-pro-layout-content-has-page-container&quot;]/div[@class=&quot;ant-pro-page-container css-oxypi3&quot;]/div[@class=&quot;ant-pro-grid-content css-oxypi3&quot;]/div[@class=&quot;ant-pro-grid-content-children css-oxypi3&quot;]/div[@class=&quot;ant-pro-page-container-children-content css-oxypi3&quot;]/div[@class=&quot;ant-pro-table css-oxypi3&quot;]/div[@class=&quot;ant-pro-card css-oxypi3&quot;]/div[@class=&quot;ant-pro-card-body css-oxypi3&quot;]/div[@class=&quot;ant-pro-table-list-toolbar css-oxypi3&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-container css-oxypi3&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-right css-oxypi3&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-setting-items css-oxypi3&quot;]/div[@class=&quot;ant-pro-table-list-toolbar-setting-item css-oxypi3&quot;]/span[1]/span[@class=&quot;anticon anticon-reload ant-tooltip-open&quot;]/svg[1]</value>
+      <webElementGuid>b88f5292-b44d-4d56-b7cf-1b4de05e818a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export as Excel'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>3f6ff4ac-d46b-49c3-a6cb-33aaf1fb59ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>ca0a0a5c-a42a-48a4-bb17-b6b53a371087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Id'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>d958e2e4-86ae-46fc-b7a8-96cc213e3af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>243b7af4-67a1-431a-9cdd-f460af76b35f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

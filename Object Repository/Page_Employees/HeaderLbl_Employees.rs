@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>HeaderLbl_Employees</name>
+   <tag></tag>
+   <elementGuidId>f2fa7b01-e4eb-4b44-95f2-f93acc7bd82a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-page-header-heading-title.css-oxypi3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/section/div[2]/main/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>46280382-f7f5-4540-848e-e85263a69c35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-page-header-heading-title css-oxypi3</value>
+      <webElementGuid>be7d7215-b2cd-4bc7-b0a1-34dfa30c0a58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Employees</value>
+      <webElementGuid>99b9085c-9d90-4efc-885c-131bb41961bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employees</value>
+      <webElementGuid>0e56db8a-61ef-4b71-822c-a58b157d601f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-pro css-oxypi3&quot;]/div[@class=&quot;css-oxypi3 ant-design-pro ant-pro-layout screen-xl ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider css-e8tju&quot;]/div[@class=&quot;ant-pro-layout-container css-oxypi3&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-oxypi3 ant-pro-layout-has-header ant-pro-layout-content-has-page-container&quot;]/div[@class=&quot;ant-pro-page-container css-oxypi3&quot;]/div[@class=&quot;ant-page-header css-oxypi3 ant-pro-page-container-warp-page-header css-oxypi3 ant-page-header-ghost&quot;]/div[@class=&quot;ant-page-header-heading css-oxypi3&quot;]/div[@class=&quot;ant-page-header-heading-left css-oxypi3&quot;]/span[@class=&quot;ant-page-header-heading-title css-oxypi3&quot;]</value>
+      <webElementGuid>ecbc30e2-5485-484d-8e9f-00ae760082e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/div[2]/main/div/div/div/div/span</value>
+      <webElementGuid>7544ec9b-333c-4f6e-86bd-b9f1e2720200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skill quotient'])[1]/following::span[1]</value>
+      <webElementGuid>c0348146-4ac8-439c-b0c7-e21908824761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[1]/following::span[2]</value>
+      <webElementGuid>6cc5b3eb-3326-4958-911e-7d562954cf2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[1]/preceding::span[1]</value>
+      <webElementGuid>f87787cd-7598-47eb-938b-e6c54bf7ec38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[2]/preceding::span[2]</value>
+      <webElementGuid>e7833d53-7e50-4235-a6ee-9b55f1524b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/span</value>
+      <webElementGuid>4db4c0dc-8292-48f4-a449-f33502fe15ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Employees' and (text() = 'Employees' or . = 'Employees')]</value>
+      <webElementGuid>7fa910fb-62d5-4ee0-8429-4437950ab7da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

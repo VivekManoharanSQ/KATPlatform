@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dd_RecordPerPage</name>
+   <tag></tag>
+   <elementGuidId>382572f6-32a5-463e-8d1c-ede12f613815</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = '10 / page' and (text() = '10 / page' or . = '10 / page')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@class='ant-pagination-options']/div/div[1]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-select-selection-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>531bf54b-716c-4338-86c2-fd954848e1b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>d274e613-0678-421a-81a3-f89eb6927864</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>10 / page</value>
+      <webElementGuid>d8d73f6d-09bc-43f6-9bf1-457f2ef3359b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10 / page</value>
+      <webElementGuid>83a8726c-dcde-482e-9c44-809cb8890098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-pro css-oxypi3&quot;]/div[@class=&quot;css-oxypi3 ant-design-pro ant-pro-layout screen-xl ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider css-e8tju&quot;]/div[@class=&quot;ant-pro-layout-container css-oxypi3&quot;]/main[@class=&quot;ant-layout-content ant-pro-layout-content css-oxypi3 ant-pro-layout-has-header ant-pro-layout-content-has-page-container&quot;]/div[@class=&quot;ant-pro-page-container css-oxypi3&quot;]/div[@class=&quot;ant-pro-grid-content css-oxypi3&quot;]/div[@class=&quot;ant-pro-grid-content-children css-oxypi3&quot;]/div[@class=&quot;ant-pro-page-container-children-content css-oxypi3&quot;]/div[@class=&quot;ant-pro-table css-oxypi3&quot;]/div[@class=&quot;ant-pro-card css-oxypi3&quot;]/div[@class=&quot;ant-pro-card-body css-oxypi3&quot;]/div[@class=&quot;ant-table-wrapper css-e8tju&quot;]/div[@class=&quot;ant-spin-nested-loading css-e8tju&quot;]/div[@class=&quot;ant-spin-container&quot;]/ul[@class=&quot;ant-pagination ant-pagination-mini ant-table-pagination ant-table-pagination-right css-e8tju&quot;]/li[@class=&quot;ant-pagination-options&quot;]/div[@class=&quot;ant-select ant-select-sm ant-pagination-options-size-changer css-e8tju ant-select-single ant-select-show-arrow ant-select-open&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>b8f7e2a2-3695-451c-87a7-57fcb6d384c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/div[2]/main/div/div[2]/div/div/div/div[2]/div/div[2]/div/div/ul/li[11]/div/div/span[2]</value>
+      <webElementGuid>247371e7-faa0-4158-bb78-225d79d4034c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•••'])[1]/following::span[3]</value>
+      <webElementGuid>539548e5-93a0-4f74-b3e4-29dab964b50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='showing 1-10 of 3117 total items'])[1]/following::span[6]</value>
+      <webElementGuid>162f6a8c-34c2-47ff-9c87-9e0fbc4927f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10 / page']/parent::*</value>
+      <webElementGuid>1da4ea89-d13f-4907-aec7-9ac216791ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/div/div/span[2]</value>
+      <webElementGuid>1a659805-a4ea-43b7-9ed7-13d640bfa846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = '10 / page' and (text() = '10 / page' or . = '10 / page')]</value>
+      <webElementGuid>92a04e68-009e-40b7-87fd-0aa2bb77ca93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
