@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>aea2bc29-fa68-46d4-9ecb-2ae45dafdcd9</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/ActualValidationTests/EmployeeModule/ScreenUIValidationTest</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

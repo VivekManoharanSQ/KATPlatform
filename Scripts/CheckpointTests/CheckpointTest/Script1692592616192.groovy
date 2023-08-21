@@ -29,6 +29,8 @@ actualPaginationText = WebUI.getText(findTestObject('Page_Employees/lbl_showing 
 //Pattern p = Pattern.compile('showing 1-[1-9][0-9] of \\d{1,5} total items')
 WebUI.verifyMatch(actualPaginationText, 'showing 1-10 of \\d{1,5} total items', true)
 
+WebUI.takeFullPageScreenshotAsCheckpoint('Initial Record Count')
+
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Employees/PageNo_1'), '1')
 
 WebUI.click(findTestObject('Object Repository/Page_Employees/dd_RecordPerPage'))
