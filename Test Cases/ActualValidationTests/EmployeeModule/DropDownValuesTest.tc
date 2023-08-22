@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DropDownValuesTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0cdcbf2-22aa-4879-8b19-83ee4affc71f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0044e7a8-49c1-490d-b614-ea4327e0fc35</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['CSC', 'Development', 'Finance', 'Human Resource', 'IT Department', 'Management', 'New Department', 'Quality Assuance', 'Resourse', 'Software Engineering', 'Talent Acquisition', 'Testing', 'Testing-Testing']</defaultValue>
+      <description></description>
+      <id>0044e7a8-49c1-490d-b614-ea4327e0fc35</id>
+      <masked>false</masked>
+      <name>expectedDepartments</name>
+   </variable>
+</TestCaseEntity>

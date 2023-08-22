@@ -6,12 +6,12 @@
    <elementGuidId>98edd2a5-22ff-4acb-b6af-a09b9a6d821f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li.ant-menu-submenu.ant-menu-submenu-inline.ant-pro-base-menu-submenu.ant-pro-base-menu-submenu-has-icon.ant-menu-submenu-active > div.ant-menu-submenu-title > span.ant-menu-title-content > div.ant-pro-base-menu-item-title.css-oxypi3</value>
+         <key>XPATH</key>
+         <value>//div[@title = 'Employee' and (text() = 'Employee' or . = 'Employee')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div/section/aside/div/div/ul/li[5]/div/span/div</value>
+         <key>CSS</key>
+         <value>li.ant-menu-submenu.ant-menu-submenu-inline.ant-pro-base-menu-submenu.ant-pro-base-menu-submenu-has-icon.ant-menu-submenu-active > div.ant-menu-submenu-title > span.ant-menu-title-content > div.ant-pro-base-menu-item-title.css-oxypi3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8707b32e-56be-436d-809c-48201abf882e</webElementGuid>
+      <webElementGuid>4d19b934-836b-459a-bb3a-66ea0d2492a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Employee</value>
-      <webElementGuid>9679f05a-6235-497b-a600-1fb518a21768</webElementGuid>
+      <webElementGuid>46bc9ac3-b9d4-472e-989c-b2cf9128e6e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-pro-base-menu-item-title css-oxypi3</value>
-      <webElementGuid>7135be39-50f8-497d-9a74-26ccf494d282</webElementGuid>
+      <webElementGuid>6b8723f7-1f0a-49b9-b47b-f09060016266</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Employee</value>
-      <webElementGuid>6f096b34-976e-46e2-8763-efd2e5560f0b</webElementGuid>
+      <webElementGuid>b7f67ce4-eb38-455a-a317-7a05a664e635</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;ant-pro css-oxypi3&quot;]/div[@class=&quot;css-oxypi3 ant-design-pro ant-pro-layout screen-xl ant-pro-layout-fix-siderbar ant-pro-layout-mix&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider css-e8tju&quot;]/aside[@class=&quot;ant-layout-sider ant-layout-sider-light ant-pro-sider css-oxypi3 ant-pro-sider-fixed ant-pro-sider-layout-mix ant-pro-sider-light ant-pro-sider-mix css-oxypi3&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/div[1]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-inline ant-menu-light ant-pro-sider-menu css-oxypi3 css-oxypi3 ant-pro-base-menu css-lbb0kg&quot;]/li[@class=&quot;ant-menu-submenu ant-menu-submenu-inline ant-pro-base-menu-submenu ant-pro-base-menu-submenu-has-icon ant-menu-submenu-active&quot;]/div[@class=&quot;ant-menu-submenu-title&quot;]/span[@class=&quot;ant-menu-title-content&quot;]/div[@class=&quot;ant-pro-base-menu-item-title css-oxypi3&quot;]</value>
-      <webElementGuid>72b33950-82cd-492a-be78-978670aeec97</webElementGuid>
+      <webElementGuid>f257a8aa-6126-463c-8aa0-df7d2011596a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/section/aside/div/div/ul/li[5]/div/span/div</value>
-      <webElementGuid>f2b485e2-5b85-4d44-92d2-e80e4e4e3ca9</webElementGuid>
+      <webElementGuid>4ec12e1b-4302-4c77-966e-7ea209cd28dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset'])[1]/following::div[2]</value>
-      <webElementGuid>783c4532-2889-4b17-b989-e1ae3ffe6ead</webElementGuid>
+      <webElementGuid>f8331366-dfa7-4750-a32f-87346600925f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Order'])[1]/following::div[4]</value>
-      <webElementGuid>4b30b2fc-bf81-4d31-ab54-c557e6a48df5</webElementGuid>
+      <webElementGuid>5211b274-108c-4487-b349-0d28977f2c6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/preceding::div[1]</value>
-      <webElementGuid>b4568a0a-b51d-4216-a6e7-316bcc9cf5d5</webElementGuid>
+      <webElementGuid>baa1c922-0786-4c1d-9f68-74bdf25fbf01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/div/span/div</value>
-      <webElementGuid>ed588406-7298-41b9-b044-143f9d4d7dc6</webElementGuid>
+      <webElementGuid>480fda53-7f1a-47ef-bf10-3465fefb54b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@title = 'Employee' and (text() = 'Employee' or . = 'Employee')]</value>
-      <webElementGuid>9cbb9331-8735-4f54-a0d8-6bd6bd0cb7b7</webElementGuid>
+      <webElementGuid>0160b20d-f601-4e80-8c01-170e5147eace</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
