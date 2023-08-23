@@ -42,14 +42,14 @@
    <testCaseLink>
       <guid>3fbf67e1-e860-49b6-9e3f-7682c006bd67</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/CheckpointTests/CheckpointTest</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>0dad2f0b-7eed-48e1-8c71-c770de3ca128</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/CheckpointTests/CheckpointTest1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -76,7 +76,7 @@
    <testCaseLink>
       <guid>7b8adf2a-8fad-4322-a14e-087bea88a05b</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/ActualValidationTests/EmployeeModule/SelectingValuesFromDropDown</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
