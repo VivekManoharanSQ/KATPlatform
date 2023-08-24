@@ -16,11 +16,20 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/ReusabilityPractice/Make an appointment</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8cdf6c77-4d29-4ddf-8b52-c23eaeeeaac7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/HealthCareData</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>8cdf6c77-4d29-4ddf-8b52-c23eaeeeaac7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
          <variableId>c52d8c69-cf0d-4583-9512-6cb0e8b6ab87</variableId>
       </variableLink>
    </testCaseLink>

@@ -10,13 +10,10 @@
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
    <data>John+Doe</data>
-   <data>null</data>
-   <data>null</data>
-   <data>null</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>username</name>
-      <size>4</size>
+      <size>1</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

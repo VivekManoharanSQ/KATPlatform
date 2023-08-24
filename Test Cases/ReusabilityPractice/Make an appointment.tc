@@ -9,8 +9,8 @@
       <combinationType>ONE</combinationType>
       <id>66152552-d946-4ea0-84d1-4c020cb1aadf</id>
       <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
+         <iterationType>SPECIFIC</iterationType>
+         <value>1</value>
       </iterationEntity>
       <testDataId>Data Files/HealthCareData</testDataId>
    </testDataLinks>

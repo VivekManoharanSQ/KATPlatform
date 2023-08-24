@@ -12,7 +12,7 @@ public class SelectDropDownValue {
 
 	@Keyword
 	def selectValue(TestObject object,String value) {
-		
+
 		String path = object.getSelectorCollection().get(SelectorMethod.XPATH)
 		print path
 		List<WebElement> optionsList = DriverFactory.getWebDriver().findElements(By.xpath(path))
