@@ -15,7 +15,7 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('')
+WebUI.openBrowser('http://test-sqms.skill-quotient.com/')
 Date dt = new Date()
 println dt.format("dd/MM/yyyy")
 println ((dt.getDay()).toString() + ' welcome') 

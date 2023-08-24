@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Make an appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25a57795-ff37-4c5a-a28a-935bf8457331</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>66152552-d946-4ea0-84d1-4c020cb1aadf</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/HealthCareData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>66152552-d946-4ea0-84d1-4c020cb1aadf</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>c52d8c69-cf0d-4583-9512-6cb0e8b6ab87</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testuser'</defaultValue>
+      <description></description>
+      <id>c52d8c69-cf0d-4583-9512-6cb0e8b6ab87</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
