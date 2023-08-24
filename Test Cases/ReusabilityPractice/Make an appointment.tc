@@ -21,7 +21,7 @@
       <variableId>c52d8c69-cf0d-4583-9512-6cb0e8b6ab87</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'testuser'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>c52d8c69-cf0d-4583-9512-6cb0e8b6ab87</id>
       <masked>false</masked>
