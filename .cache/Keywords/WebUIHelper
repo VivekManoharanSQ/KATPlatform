@@ -1,11 +1,11 @@
 {
-  "keywordFileContentHash": "9EC97EBB15A042EEBC4AD16D471A1E16",
+  "keywordFileContentHash": "C918330BC80AB82AC30C418564F0A592",
   "keywordClasses": [
     {
-      "name": "SelectDropDownValue",
+      "name": "WebUIHelper",
       "keywordMethods": [
         {
-          "name": "selectValue",
+          "name": "getElementCount",
           "parameters": [
             {
               "name": "object",
@@ -13,19 +13,6 @@
               "type": {
                 "fullClassName": "com.kms.katalon.core.testobject.TestObject",
                 "unresolvedClassName": "TestObject",
-                "isArray": false,
-                "isGnericsPlaceHolder": false,
-                "hasImmutableClassName": false,
-                "genericsTypes": [],
-                "errorOnParsing": false
-              }
-            },
-            {
-              "name": "value",
-              "initialExpression": "",
-              "type": {
-                "fullClassName": "java.lang.String",
-                "unresolvedClassName": "String",
                 "isArray": false,
                 "isGnericsPlaceHolder": false,
                 "hasImmutableClassName": false,

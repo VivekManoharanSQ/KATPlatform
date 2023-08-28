@@ -21,8 +21,15 @@
    <testCaseLink>
       <guid>246994f3-2501-4baa-9f5a-aecbc2b0ab2d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/ActualValidationTests/EmployeeModule/PaginationTest</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5afb117f-6d3d-47d9-b5c8-71f1df02d06d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ActualValidationTests/EmployeeModule/EmployeeSearchCount</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
