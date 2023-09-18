@@ -84,7 +84,7 @@
       <guid>08bd27b5-681e-44cb-afb1-b8c6f35c66c0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ApiTests/DateTest</testCaseId>
+      <testCaseId>Test Cases/AdditionalTests/DateTest</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

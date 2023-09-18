@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "74155EF772E98B723439908FDA879E47",
+  "keywordFileContentHash": "0694BA9D649A5CFB664E38F02852A95E",
   "keywordClasses": [
     {
       "name": "StepDef",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

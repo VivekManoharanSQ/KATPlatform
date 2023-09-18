@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 not_run: CucumberKW.runFeatureFile('Include/features/BddFirstTest.feature')
 
-CucumberKW.runFeatureFileWithTags('Include/features/BddFirstTest.feature', ((['@smoke', '@valid']) as String[]))
+CucumberKW.runFeatureFileWithTags('Include/features/BddFirstTest.feature', ((['@smoke', '@invalid']) as String[]))
 
